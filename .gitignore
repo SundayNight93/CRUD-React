@@ -1,0 +1,4 @@
+my_venv
+django_crud_api/__pycache__
+tasks/__pycache__
+tasks/migrations/__pycache__
